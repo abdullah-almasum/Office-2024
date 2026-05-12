@@ -29,7 +29,7 @@ This repository provides a complete guide for:
 
 3. **Navigate to Installation Directory**
    ```cmd
-   cd c:/Office2024
+   cd C:\Office 2024
    ```
 
 4. **Configure and Install**

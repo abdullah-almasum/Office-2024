@@ -20,8 +20,8 @@
 #### Open Command Prompt as Administrator
 
 ```cmd
-move dir Office2024 file
-cd c:/Office2024
+move dir Office 2024 file
+cd C:\Office 2024
 setup /configure Configuration.xml
 ```
 
